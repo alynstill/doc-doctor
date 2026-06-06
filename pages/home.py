@@ -43,6 +43,7 @@ st.markdown(
     Each tool performs a single task, so you can use them independently or in combination depending on what you need.
     **Note** Most tools work with `.docx` files.
     If Faculty Success outputs a `.doc` file, open and save it as a `.docx` file before using these tools.
+
     ---
 
     ### Available tools
